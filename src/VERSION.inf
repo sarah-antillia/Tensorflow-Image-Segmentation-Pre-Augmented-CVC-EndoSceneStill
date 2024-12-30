@@ -1,0 +1,6 @@
+[tensorflow-image-segmentation-api]
+version   = "1.4.3"
+updated   = "2024/09/26"
+licence   = "http://www.apache.org/licenses/LICENSE-2.0"
+copyright = "2023~2024 antillia.com Toshiyuki Arai"
+
